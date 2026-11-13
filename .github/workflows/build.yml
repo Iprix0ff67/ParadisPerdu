@@ -3,6 +3,7 @@ name: Construire le launcher
 on:
   push:
     paths:
+      - 'paradis-perdu-launcher-sources*.zip'
       - 'launcher/**'
       - '.github/workflows/build.yml'
   workflow_dispatch:
@@ -13,19 +14,25 @@ permissions:
 jobs:
   build:
     runs-on: windows-latest
-    defaults:
-      run:
-        working-directory: launcher
     steps:
       - uses: actions/checkout@v4
+      - name: Décompresser les sources
+        shell: pwsh
+        run: |
+          $z = Get-ChildItem -Filter 'paradis-perdu-launcher-sources*.zip' | Select-Object -First 1
+          if ($z) { Expand-Archive -Path $z.FullName -DestinationPath . -Force }
+          if (-not (Test-Path launcher)) { Write-Error "Dossier launcher introuvable"; exit 1 }
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
       - name: Installer les dépendances
+        working-directory: launcher
         run: npm install
       - name: Construire le .exe
+        working-directory: launcher
         run: npm run dist
       - name: Publier le .exe dans la release launcher
+        working-directory: launcher
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}

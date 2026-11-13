@@ -1,0 +1,35 @@
+name: Construire le launcher
+
+on:
+  push:
+    paths:
+      - 'launcher/**'
+      - '.github/workflows/build.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    defaults:
+      run:
+        working-directory: launcher
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Installer les dépendances
+        run: npm install
+      - name: Construire le .exe
+        run: npm run dist
+      - name: Publier le .exe dans la release « launcher »
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view launcher --repo "${{ github.repository }}" >/dev/null 2>&1 || \
+            gh release create launcher --repo "${{ github.repository }}" --title "Launcher Paradis Perdu" --notes "Téléchargez ParadisPerdu-Launcher.exe puis lancez-le."
+          gh release upload launcher dist/ParadisPerdu-Launcher.exe --repo "${{ github.repository }}" --clobber

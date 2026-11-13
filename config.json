@@ -1,0 +1,8 @@
+{
+  "manifestUrl": "https://raw.githubusercontent.com/Iprix0ff67/ParadisPerdu/main/manifest.json",
+  "allowedPrefix": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/",
+  "discordUrl": "https://discord.gg/REMPLACER",
+  "shopUrl": "https://paradisperdu.tip4serv.com/",
+  "gameExe": "SCUM.exe",
+  "launchArgs": ["-fileopenlog", "-nobattleye"]
+}

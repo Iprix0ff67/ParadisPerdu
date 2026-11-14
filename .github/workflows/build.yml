@@ -16,22 +16,27 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Décompresser les sources
         shell: pwsh
         run: |
-          $z = Get-ChildItem -Filter 'paradis-perdu-launcher-sources*.zip' | Select-Object -First 1
-          if ($z) { Expand-Archive -Path $z.FullName -DestinationPath . -Force }
+          $zip = Get-ChildItem -Path . -Filter 'paradis-perdu-launcher-sources*.zip' | Select-Object -First 1
+          if ($zip) { Expand-Archive -Path $zip.FullName -DestinationPath . -Force }
           if (-not (Test-Path launcher)) { Write-Error "Dossier launcher introuvable"; exit 1 }
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+
       - name: Installer les dépendances
         working-directory: launcher
         run: npm install
+
       - name: Construire le .exe
         working-directory: launcher
         run: npm run dist
-      - name: Publier le .exe dans la release launcher
+
+      - name: Publier le .exe et la version
         working-directory: launcher
         shell: bash
         env:
@@ -40,3 +45,9 @@ jobs:
           gh release view launcher --repo "${{ github.repository }}" >/dev/null 2>&1 || \
             gh release create launcher --repo "${{ github.repository }}" --title "Launcher Paradis Perdu" --notes "Téléchargez ParadisPerdu-Launcher.exe puis lancez-le."
           gh release upload launcher dist/ParadisPerdu-Launcher.exe --repo "${{ github.repository }}" --clobber
+          VER=$(node -p "require('./package.json').version")
+          SHA=$(sha256sum dist/ParadisPerdu-Launcher.exe | cut -d' ' -f1)
+          SIZE=$(stat -c%s dist/ParadisPerdu-Launcher.exe)
+          printf '{"version":"%s","sha256":"%s","size":%s,"url":"https://github.com/%s/releases/download/launcher/ParadisPerdu-Launcher.exe"}' "$VER" "$SHA" "$SIZE" "${{ github.repository }}" > dist/launcher-version.json
+          cat dist/launcher-version.json
+          gh release upload launcher dist/launcher-version.json --repo "${{ github.repository }}" --clobber

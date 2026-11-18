@@ -2,298 +2,340 @@
   "version": 1,
   "mods": [
     {
-      "name": "JP_Boats50_P.pak",
-      "version": "1.0",
-      "size": 3014,
-      "sha256": "218710d110ad58871c6fb02fbf9eefb93d7f2cc81c55643d21c6c3ede08b3f41",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Boats50_P.pak"
+      "name": "JP_Boat_Lancha_998_P.pak",
+      "version": "1.1",
+      "size": 8824898,
+      "sha256": "a8c4543a94bdb658126f3eadc688edf2d438a1c9b92d00c05a2a6027a2534118",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Boat_Lancha_998_P.pak"
     },
     {
-      "name": "JP_Bron1_997_P.pak",
-      "version": "1.0",
+      "name": "JP_Car_Bron1_997_P.pak",
+      "version": "1.1",
       "size": 14155116,
       "sha256": "920d20291acc55a1b06fe8917d8cbc40a68fbb5e43f809bfe911801d7860f707",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Bron1_997_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Bron1_997_P.pak"
     },
     {
-      "name": "JP_Bron1_998_P.pak",
-      "version": "1.0",
+      "name": "JP_Car_Bron1_998_P.pak",
+      "version": "1.1",
       "size": 21202389,
       "sha256": "5bad688aa229955286eb80d7ed83a92a97ac1059993da5810ac3c2a7525f3a22",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Bron1_998_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Bron1_998_P.pak"
     },
     {
-      "name": "JP_Cama1_997_P.pak",
-      "version": "1.0",
+      "name": "JP_Car_Cama1_997_P.pak",
+      "version": "1.1",
       "size": 9022283,
       "sha256": "e814e88a1e999baff38c66b8266612d62c18b33995ed5ff12d624a160b55744b",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Cama1_997_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Cama1_997_P.pak"
     },
     {
-      "name": "JP_Cama1_998_P.pak",
-      "version": "1.0",
+      "name": "JP_Car_Cama1_998_P.pak",
+      "version": "1.1",
       "size": 8691954,
       "sha256": "7a615ae9a9bb762d07c025938fd8e4294c4ab0e4ea83634ffa63a7deb44a89ac",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Cama1_998_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Cama1_998_P.pak"
     },
     {
-      "name": "JP_Glad1_997_P.pak",
-      "version": "1.0",
+      "name": "JP_Car_Glad1_997_P.pak",
+      "version": "1.1",
       "size": 21072758,
       "sha256": "9d138d8a6dad74ad0583bf5cc1e516fa1bcbd67defe728eff24be5fff10ba242",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Glad1_997_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Glad1_997_P.pak"
     },
     {
-      "name": "JP_Glad1_998_P.pak",
-      "version": "1.0",
+      "name": "JP_Car_Glad1_998_P.pak",
+      "version": "1.1",
       "size": 29394379,
       "sha256": "6e686e490977e4910009d9b67ba0e0378f16e3509f15e5c801ef84255a4d9c2c",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Glad1_998_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Glad1_998_P.pak"
     },
     {
-      "name": "JP_HBDG_998_P.pak",
+      "name": "JP_Car_Kerax_997_P.pak",
+      "version": "1.1",
+      "size": 18887397,
+      "sha256": "ed8f83575a27d469e786f0c473bd241a524ce44a4bcb488e2cc272a88350c3ca",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Kerax_997_P.pak"
+    },
+    {
+      "name": "JP_Car_Kerax_998_P.pak",
+      "version": "1.1",
+      "size": 7019848,
+      "sha256": "d82e1194c2a593a572aca1e14a6afc72d244b09b7e02e6ca0b2fac36df9f7d2d",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Kerax_998_P.pak"
+    },
+    {
+      "name": "JP_Car_Mona1_997_P.pak",
+      "version": "1.1",
+      "size": 17456198,
+      "sha256": "e1aadfc462656ad477bddb99787f2e95916914f4c13cf25dbffe19221fc6741d",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Mona1_997_P.pak"
+    },
+    {
+      "name": "JP_Car_Mona1_998_P.pak",
+      "version": "1.1",
+      "size": 11275665,
+      "sha256": "016b7e47e4dbb3bb015a10240d523c59315acb97d45cff6074db59857e94b4de",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Mona1_998_P.pak"
+    },
+    {
+      "name": "JP_Car_SUV01_997_P.pak",
       "version": "1.0",
+      "size": 11648707,
+      "sha256": "6c2cf49a872b3215d0745ebfb9d1d9c509455f6fd70669ad875b632e6102b8f0",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_SUV01_997_P.pak"
+    },
+    {
+      "name": "JP_Car_SUV01_998_P.pak",
+      "version": "1.0",
+      "size": 20311164,
+      "sha256": "52a1a1ef03303932d51a335ff573532b9ef434b95b96f580102976098bb2fad0",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_SUV01_998_P.pak"
+    },
+    {
+      "name": "JP_Car_Taco1_997_P.pak",
+      "version": "1.1",
+      "size": 14736739,
+      "sha256": "697ef4d7fcd5a7dc1a3f51b174560baa788628443a121790e32d31d81fc3033a",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Taco1_997_P.pak"
+    },
+    {
+      "name": "JP_Car_Taco1_998_P.pak",
+      "version": "1.1",
+      "size": 13584765,
+      "sha256": "2894e8efd65acbbff16746a5ccfb7c87b3a13ff549b4048bfb9d19752a71e8c4",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Taco1_998_P.pak"
+    },
+    {
+      "name": "JP_Car_Terr1_997_P.pak",
+      "version": "1.1",
+      "size": 19707203,
+      "sha256": "d5b6bc8b5ffa901da40ba3cb7717d84f0037c5daa6b6057c754ae60297c1eb81",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Terr1_997_P.pak"
+    },
+    {
+      "name": "JP_Car_Terr1_998_P.pak",
+      "version": "1.1",
+      "size": 7797195,
+      "sha256": "d0cf85dcb6adb979ecf77df29a37c8b4e9d3dec7e93a90cba11a43f684b3faf8",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Terr1_998_P.pak"
+    },
+    {
+      "name": "JP_Car_Tran1_997_P.pak",
+      "version": "1.1",
+      "size": 11017530,
+      "sha256": "5213d3ccb9a2de7a33cf37dbf0e7444ef1f5b42c0e862ae046c9705422dbec52",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Tran1_997_P.pak"
+    },
+    {
+      "name": "JP_Car_Tran1_998_P.pak",
+      "version": "1.1",
+      "size": 14467696,
+      "sha256": "496ea4c007ec190920b490a4279fe27aee1c919de4a0ebe8f157b3f7f4b16636",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Tran1_998_P.pak"
+    },
+    {
+      "name": "JP_Car_Wago1_997_P.pak",
+      "version": "1.1",
+      "size": 20177884,
+      "sha256": "31ea20d8df52fec590c8350e57f5805805d1f60138eb041f85edaa6b81128368",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Wago1_997_P.pak"
+    },
+    {
+      "name": "JP_Car_Wago1_998_P.pak",
+      "version": "1.1",
+      "size": 7641484,
+      "sha256": "a48c647db0e86ce65469f6d1186fd82963a5f8d7f292618c4e68c71c99e99e69",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Wago1_998_P.pak"
+    },
+    {
+      "name": "JP_Car_Zil131_998_P.pak",
+      "version": "1.1",
+      "size": 5592134,
+      "sha256": "e2915f8720a6dbb1edccc32542c2116b376a03ad0930132b503eef714cacdcb8",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Car_Zil131_998_P.pak"
+    },
+    {
+      "name": "JP_Firearm_HBDG_998_P.pak",
+      "version": "1.1",
       "size": 56791278,
       "sha256": "03a5e60888573d3131170cc9bcf3be09860d9ea8775a072c66e9eae6f6952ebd",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_HBDG_998_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_HBDG_998_P.pak"
+    },
+    {
+      "name": "JP_Firearm_LVOA_C_997_P.pak",
+      "version": "1.1",
+      "size": 13568998,
+      "sha256": "9b309ce6f91be6140db47f3aa537332fea7fc0d1005c1f8d25c170d1e086dbea",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_LVOA_C_997_P.pak"
+    },
+    {
+      "name": "JP_Firearm_MDRX_998_P.pak",
+      "version": "1.1",
+      "size": 24977294,
+      "sha256": "3f77d86f67a88a5fcddfe820e875be579fd1ec715bf8d2df52f577d775fca16d",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_MDRX_998_P.pak"
+    },
+    {
+      "name": "JP_Firearm_MK14_998_P.pak",
+      "version": "1.1",
+      "size": 10278543,
+      "sha256": "7fc1dc73856fe3f42a82bb1d32b66abf8f7af5508290aab6bce3d6e373d096b1",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_MK14_998_P.pak"
+    },
+    {
+      "name": "JP_Firearm_MKRVal_998_P.pak",
+      "version": "1.1",
+      "size": 3101951,
+      "sha256": "0ae7fd34185b2f88ce3487d7caf55a50c4c70f02cefb776c5e5f253a52e88756",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_MKRVal_998_P.pak"
+    },
+    {
+      "name": "JP_Firearm_SKW338_998_P.pak",
+      "version": "1.1",
+      "size": 31496417,
+      "sha256": "2146ab4214f468152ef7756b176e41e48e54e7d58b60982324fd8e01c41aad7a",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_SKW338_998_P.pak"
+    },
+    {
+      "name": "JP_Firearm_SMCX_998_P.pak",
+      "version": "1.1",
+      "size": 29690118,
+      "sha256": "fc7c791cd72f78906b0ba18fa8f054ec8e7a18afe3edcfea72ce4a999aba64fa",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_SMCX_998_P.pak"
+    },
+    {
+      "name": "JP_Firearm_UMPTC_998_P.pak",
+      "version": "1.1",
+      "size": 4061954,
+      "sha256": "1c9e75f71de57f4bfd458ce5e9b94df17a3d49ad069fa2d9e67169c6ab439008",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Firearm_UMPTC_998_P.pak"
     },
     {
       "name": "JP_Heli_BellUH1_998_P.pak",
-      "version": "1.0",
+      "version": "1.1",
       "size": 13798302,
       "sha256": "c340c1701301faaf8208ddde7f2d3021ba3926673b3e45eea61f5fa75f8000de",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Heli_BellUH1_998_P.pak"
     },
     {
-      "name": "JP_Heli_Gazelle_998_P.pak",
+      "name": "JP_Heli_Gazelle2_998_P.pak",
       "version": "1.0",
-      "size": 11811175,
-      "sha256": "99863f7ca62c3aef98dd02d6a37278f78ae8079167cf1eb21bd75775c60d2071",
+      "size": 19464900,
+      "sha256": "29b0801b0656772568f377ac418b61527247411d5238de2a1d9e0e0afd50b8a5",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Heli_Gazelle2_998_P.pak"
+    },
+    {
+      "name": "JP_Heli_Gazelle_998_P.pak",
+      "version": "1.1",
+      "size": 16825676,
+      "sha256": "74188622378ebb48f2c86f1dd04db2a48d73165d9a02352bbfec38698705c690",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Heli_Gazelle_998_P.pak"
     },
     {
       "name": "JP_Heli_MD500_998_P.pak",
-      "version": "1.0",
-      "size": 16060815,
-      "sha256": "3e270736c5185656cda12b1f355d414e89eba9dfebcd36e2dc09687d01890231",
+      "version": "1.1",
+      "size": 21330792,
+      "sha256": "53612bdf569e338ac615187ad28ed827e375fd1bc4c8842c478f5b5eaba5ea14",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Heli_MD500_998_P.pak"
     },
     {
       "name": "JP_Heli_MH6_998_P.pak",
-      "version": "1.0",
+      "version": "1.1",
       "size": 9731828,
       "sha256": "f733d6c5d1fbed139ec62689bb6116eaa5ab7d962c9b00c4356702564ad10cfa",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Heli_MH6_998_P.pak"
     },
     {
       "name": "JP_Horse_2.0_sem_Manta_Marrom_P.pak",
-      "version": "1.0",
-      "size": 21979830,
-      "sha256": "2fc65018d552470d90af3a5c64baf42fa1bb76254360303b18141cb88205ed77",
+      "version": "1.1",
+      "size": 21979823,
+      "sha256": "977f06962028c0f89c221e63cddb49ef5a9193cc7c8848f086f2fedebeaa022d",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Horse_2.0_sem_Manta_Marrom_P.pak"
     },
     {
-      "name": "JP_Kerax_997_P.pak",
+      "name": "JP_MiniMap_2.0_997_P.pak",
       "version": "1.0",
-      "size": 18887397,
-      "sha256": "ed8f83575a27d469e786f0c473bd241a524ce44a4bcb488e2cc272a88350c3ca",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Kerax_997_P.pak"
-    },
-    {
-      "name": "JP_Kerax_998_P.pak",
-      "version": "1.0",
-      "size": 7019848,
-      "sha256": "d82e1194c2a593a572aca1e14a6afc72d244b09b7e02e6ca0b2fac36df9f7d2d",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Kerax_998_P.pak"
-    },
-    {
-      "name": "JP_LVOA_C_997_P.pak",
-      "version": "1.0",
-      "size": 13568998,
-      "sha256": "9b309ce6f91be6140db47f3aa537332fea7fc0d1005c1f8d25c170d1e086dbea",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_LVOA_C_997_P.pak"
-    },
-    {
-      "name": "JP_Lancha_998_P.pak",
-      "version": "1.0",
-      "size": 8824898,
-      "sha256": "a8c4543a94bdb658126f3eadc688edf2d438a1c9b92d00c05a2a6027a2534118",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Lancha_998_P.pak"
-    },
-    {
-      "name": "JP_MDRX_998_P.pak",
-      "version": "1.0",
-      "size": 38960580,
-      "sha256": "71060c48a90eb172193d7c7caa611c4ff1c8273c10515ae59c2d173dc3340b87",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MDRX_998_P.pak"
-    },
-    {
-      "name": "JP_MK14_998_P.pak",
-      "version": "1.0",
-      "size": 10278543,
-      "sha256": "7fc1dc73856fe3f42a82bb1d32b66abf8f7af5508290aab6bce3d6e373d096b1",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MK14_998_P.pak"
-    },
-    {
-      "name": "JP_MKRVal_998_P.pak",
-      "version": "1.0",
-      "size": 3101951,
-      "sha256": "0ae7fd34185b2f88ce3487d7caf55a50c4c70f02cefb776c5e5f253a52e88756",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MKRVal_998_P.pak"
-    },
-    {
-      "name": "JP_Mona1_997_P.pak",
-      "version": "1.0",
-      "size": 17456198,
-      "sha256": "e1aadfc462656ad477bddb99787f2e95916914f4c13cf25dbffe19221fc6741d",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Mona1_997_P.pak"
-    },
-    {
-      "name": "JP_Mona1_998_P.pak",
-      "version": "1.0",
-      "size": 11275665,
-      "sha256": "016b7e47e4dbb3bb015a10240d523c59315acb97d45cff6074db59857e94b4de",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Mona1_998_P.pak"
+      "size": 79101,
+      "sha256": "3f7e9c45f0278fe1a318a44b92dc75f993e13c8db0b3e8f2fbc7be50d5d4e6ec",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MiniMap_2.0_997_P.pak"
     },
     {
       "name": "JP_MotorTrator_Sons_P.pak",
-      "version": "1.0",
+      "version": "1.1",
       "size": 1806423,
       "sha256": "81ca24962a2aa9d7847fe7cbdf988bfb702d375518b19f06615985b77d49f6e9",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MotorTrator_Sons_P.pak"
     },
     {
-      "name": "JP_Plain_MarineWW2_P.pak",
+      "name": "JP_Plane_Macchi_998_P.pak",
       "version": "1.0",
+      "size": 16820438,
+      "sha256": "1d35b1048fca59fb2ce1359518da4d5e61ace04e0e87c1a094e34cb7a9bcc9d7",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Plane_Macchi_998_P.pak"
+    },
+    {
+      "name": "JP_Plane_MarineWW2_P.pak",
+      "version": "1.1",
       "size": 7815885,
       "sha256": "5ab70f182f027d8d3bcdf6afdc840f6ead1e25359ccf3f67ddf7842e1f26efb2",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Plain_MarineWW2_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Plane_MarineWW2_P.pak"
     },
     {
-      "name": "JP_Plain_Monoplano_B_P.pak",
-      "version": "1.0",
+      "name": "JP_Plane_Monoplano_B_P.pak",
+      "version": "1.1",
       "size": 3419714,
       "sha256": "6b931229ded676dd30db9567cac6ee1d303a708bbb4ca605d86d886fc25052d7",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Plain_Monoplano_B_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Plane_Monoplano_B_P.pak"
     },
     {
-      "name": "JP_Plain_Monoplano_C_P.pak",
-      "version": "1.0",
+      "name": "JP_Plane_Monoplano_C_P.pak",
+      "version": "1.1",
       "size": 13345,
       "sha256": "cf51ed860a77c3cbd1b99610d563bb6a9fcf06aff344e7420e632fc431a050d8",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Plain_Monoplano_C_P.pak"
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Plane_Monoplano_C_P.pak"
     },
     {
       "name": "JP_Pose_P.pak",
-      "version": "1.0",
+      "version": "1.1",
       "size": 70006,
       "sha256": "ff1049c7dca619670c705fa73a6e232b5407e46d88eaf5f81bf82ec988747604",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Pose_P.pak"
     },
     {
       "name": "JP_RagerSkeleton_997_P.pak",
-      "version": "1.0",
+      "version": "1.1",
       "size": 3791,
       "sha256": "c1b47003f8305cf4dff7f9e06d5f8c2ea02e0a531806bc8bfd38f5c854bc5b0d",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_RagerSkeleton_997_P.pak"
     },
     {
-      "name": "JP_Registro_PARADIS_PERDU_999_P.pak",
-      "version": "1.0",
-      "size": 7878574,
-      "sha256": "d7e3aec0a3509f3f0f7cb652ddba6ce312eaeb72b4afde53e675b1928f95bddc",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Registro_PARADIS.PERDU_999_P.pak"
+      "name": "JP_Registro_PARADISPERDU_999_P.pak",
+      "version": "1.1",
+      "size": 7889808,
+      "sha256": "d1f95f8fa2637785b9ac0a1e58575121aa376b994e4cfd550c9dd6ddf6a66486",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Registro_PARADISPERDU_999_P.pak"
     },
     {
-      "name": "JP_SKW338_998_P.pak",
+      "name": "JP_Sirene_990_P.pak",
       "version": "1.0",
-      "size": 31496417,
-      "sha256": "2146ab4214f468152ef7756b176e41e48e54e7d58b60982324fd8e01c41aad7a",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_SKW338_998_P.pak"
+      "size": 1013614,
+      "sha256": "ee49e197798b3ea6500dfe811ee364c5e54242e9ef87d2013a166febcbcb1c89",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Sirene_990_P.pak"
     },
     {
-      "name": "JP_SMCX_998_P.pak",
+      "name": "JP_Spawn_998_P.pak",
       "version": "1.0",
-      "size": 29690118,
-      "sha256": "fc7c791cd72f78906b0ba18fa8f054ec8e7a18afe3edcfea72ce4a999aba64fa",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_SMCX_998_P.pak"
-    },
-    {
-      "name": "JP_Taco1_997_P.pak",
-      "version": "1.0",
-      "size": 14736739,
-      "sha256": "697ef4d7fcd5a7dc1a3f51b174560baa788628443a121790e32d31d81fc3033a",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Taco1_997_P.pak"
-    },
-    {
-      "name": "JP_Taco1_998_P.pak",
-      "version": "1.0",
-      "size": 13584765,
-      "sha256": "2894e8efd65acbbff16746a5ccfb7c87b3a13ff549b4048bfb9d19752a71e8c4",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Taco1_998_P.pak"
-    },
-    {
-      "name": "JP_Terr1_997_P.pak",
-      "version": "1.0",
-      "size": 19707203,
-      "sha256": "d5b6bc8b5ffa901da40ba3cb7717d84f0037c5daa6b6057c754ae60297c1eb81",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Terr1_997_P.pak"
-    },
-    {
-      "name": "JP_Terr1_998_P.pak",
-      "version": "1.0",
-      "size": 7797195,
-      "sha256": "d0cf85dcb6adb979ecf77df29a37c8b4e9d3dec7e93a90cba11a43f684b3faf8",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Terr1_998_P.pak"
-    },
-    {
-      "name": "JP_Tran1_997_P.pak",
-      "version": "1.0",
-      "size": 11017530,
-      "sha256": "5213d3ccb9a2de7a33cf37dbf0e7444ef1f5b42c0e862ae046c9705422dbec52",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Tran1_997_P.pak"
-    },
-    {
-      "name": "JP_Tran1_998_P.pak",
-      "version": "1.0",
-      "size": 14467696,
-      "sha256": "496ea4c007ec190920b490a4279fe27aee1c919de4a0ebe8f157b3f7f4b16636",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Tran1_998_P.pak"
-    },
-    {
-      "name": "JP_UMPTC_998_P.pak",
-      "version": "1.0",
-      "size": 4061954,
-      "sha256": "1c9e75f71de57f4bfd458ce5e9b94df17a3d49ad069fa2d9e67169c6ab439008",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_UMPTC_998_P.pak"
+      "size": 61517,
+      "sha256": "6e80731402f262bd702c3d543b687b750833fe796eaa9ee3672fb674954e1b4f",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Spawn_998_P.pak"
     },
     {
       "name": "JP_Veiculos_998_P.pak",
-      "version": "1.0",
+      "version": "1.1",
       "size": 216152,
       "sha256": "2836930718bacd3bfef683adcb0581d925c87d9ab9bfd47500e3a5255894cc52",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Veiculos_998_P.pak"
-    },
-    {
-      "name": "JP_Wago1_997_P.pak",
-      "version": "1.0",
-      "size": 20177884,
-      "sha256": "31ea20d8df52fec590c8350e57f5805805d1f60138eb041f85edaa6b81128368",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Wago1_997_P.pak"
-    },
-    {
-      "name": "JP_Wago1_998_P.pak",
-      "version": "1.0",
-      "size": 7641484,
-      "sha256": "a48c647db0e86ce65469f6d1186fd82963a5f8d7f292618c4e68c71c99e99e69",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Wago1_998_P.pak"
-    },
-    {
-      "name": "JP_Zil131_998_P.pak",
-      "version": "1.0",
-      "size": 5592134,
-      "sha256": "e2915f8720a6dbb1edccc32542c2116b376a03ad0930132b503eef714cacdcb8",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Zil131_998_P.pak"
     }
   ]
 }

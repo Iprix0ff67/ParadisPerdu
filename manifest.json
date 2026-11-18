@@ -9,6 +9,13 @@
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Boat_Lancha_998_P.pak"
     },
     {
+      "name": "JP_Boats50_P.pak",
+      "version": "1.1",
+      "size": 3014,
+      "sha256": "218710d110ad58871c6fb02fbf9eefb93d7f2cc81c55643d21c6c3ede08b3f41",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Boats50_P.pak"
+    },
+    {
       "name": "JP_Car_Bron1_997_P.pak",
       "version": "1.1",
       "size": 14155116,
@@ -322,13 +329,6 @@
       "size": 1013614,
       "sha256": "ee49e197798b3ea6500dfe811ee364c5e54242e9ef87d2013a166febcbcb1c89",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Sirene_990_P.pak"
-    },
-    {
-      "name": "JP_Spawn_998_P.pak",
-      "version": "1.0",
-      "size": 61517,
-      "sha256": "6e80731402f262bd702c3d543b687b750833fe796eaa9ee3672fb674954e1b4f",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Spawn_998_P.pak"
     },
     {
       "name": "JP_Veiculos_998_P.pak",

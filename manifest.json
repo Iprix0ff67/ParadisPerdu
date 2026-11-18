@@ -294,6 +294,13 @@
       "size": 5592134,
       "sha256": "e2915f8720a6dbb1edccc32542c2116b376a03ad0930132b503eef714cacdcb8",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Zil131_998_P.pak"
+    },
+    {
+      "name": "JP_MiniMap_2.0_997_P.pak",
+      "version": "1.0",
+      "size": 79101,
+      "sha256": "3f7e9c45f0278fe1a318a44b92dc75f993e13c8db0b3e8f2fbc7be50d5d4e6ec",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MiniMap_2.0_997_P.pak"
     }
   ]
 }

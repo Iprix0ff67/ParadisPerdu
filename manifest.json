@@ -142,6 +142,13 @@
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MKRVal_998_P.pak"
     },
     {
+      "name": "JP_MiniMap_2.0_997_P.pak",
+      "version": "1.1",
+      "size": 79106,
+      "sha256": "d154adb4cd4cb0605cc473d7e5e95c53ddc889598d915999f8af6e95cb8034fe",
+      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MiniMap_2.0_997_P.pak"
+    },
+    {
       "name": "JP_Mona1_997_P.pak",
       "version": "1.0",
       "size": 17456198,
@@ -294,13 +301,6 @@
       "size": 5592134,
       "sha256": "e2915f8720a6dbb1edccc32542c2116b376a03ad0930132b503eef714cacdcb8",
       "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_Zil131_998_P.pak"
-    },
-    {
-      "name": "JP_MiniMap_2.0_997_P.pak",
-      "version": "1.0",
-      "size": 79106,
-      "sha256": "d154adb4cd4cb0605cc473d7e5e95c53ddc889598d915999f8af6e95cb8034fe",
-      "url": "https://github.com/Iprix0ff67/ParadisPerdu/releases/download/mods/JP_MiniMap_2.0_997_P.pak"
     }
   ]
 }
